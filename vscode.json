@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "explorer.confirmDelete": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "mohd-akram.vscode-html-format"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.suggestSmartCommit": false,
+    "editor.fontSize": 18,
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Fira Code iScript', Consolas, 'Courier New', monospace"
+  
+}
