@@ -1,21 +1,44 @@
 {
-    "workbench.colorTheme": "Dracula",
-    "bracket-pair-colorizer-2.depreciation-notice": false,
-    "explorer.confirmDelete": false,
-    "[css]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[html]": {
-        "editor.defaultFormatter": "mohd-akram.vscode-html-format"
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "git.suggestSmartCommit": false,
-    "editor.fontSize": 18,
-    "workbench.iconTheme": "material-icon-theme",
-    "terminal.integrated.fontFamily": "monospace",
-    "editor.fontLigatures": true,
-    "editor.fontFamily": "'Fira Code iScript', Consolas, 'Courier New', monospace"
-  
+"workbench.colorTheme": "Dracula",
+"bracket-pair-colorizer-2.depreciation-notice": false,
+"explorer.confirmDelete": false,
+"[css]": {
+"editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[html]": {
+"editor.defaultFormatter": "mohd-akram.vscode-html-format"
+},
+"[javascript]": {
+"editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"git.suggestSmartCommit": false,
+"editor.fontSize": 18,
+"workbench.iconTheme": "material-icon-theme",
+"terminal.integrated.fontFamily": "monospace",
+"editor.fontLigatures": true,
+"editor.fontFamily": "'Fira Code iScript', Consolas, 'Courier New', monospace",
+"[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+},
+"[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+},
+"editor.unicodeHighlight.nonBasicASCII": false,
+"[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+},
+"git.autofetch": true,
+"[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"editor.unicodeHighlight.ambiguousCharacters": false,
+"redhat.telemetry.enabled": true,
+"git.confirmSync": false,
+"workbench.editorAssociations": {
+    "*.copilotmd": "vscode.markdown.preview.editor",
+    "*.db": "default"
+},
+"[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
 }
